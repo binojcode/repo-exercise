@@ -1,2 +1,2 @@
 # sample.js file
-/* script comes under */
+/* script comes under Thank You all*/
